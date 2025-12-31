@@ -2,9 +2,6 @@
 
 ## K-means nearest neighbor implementation in C++
 
-## :cinema: Video:
-* https://youtu.be/lkz1wsrQHdQ
-
 ## :grey_question: What is it?
 * Finds the best cluster for a set of points.
 * Points can be any dimension.
